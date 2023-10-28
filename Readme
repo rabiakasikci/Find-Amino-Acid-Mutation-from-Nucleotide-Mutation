@@ -10,7 +10,7 @@ Merged2File.py This code use for preparing file for clustalomega.
 Compare2Sequnces.py= After alignment, all sequences compare each others.
 
 
-***ALSO, you must have CLUSTALOMEGA program for alignment
+***ALSO, you must have CLUSTALOMEGA program for alignment.
 
 USAGE:
 
