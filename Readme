@@ -1,0 +1,20 @@
+This code finds the amino acid mutation from the specified nucleotide mutation.
+First of all, you should list the nucleotide mutations as follows from Mutation_List file;
+A0C
+T1G
+
+Do_Point_Mutation.py = Do the spesific mutation by using the Ref_Nuc.txt (Referance nucleotit sequence)
+ 
+Dna2Pro.py Convert DNA to RNA
+Merged2File.py This code use for preparing file for clustalomega.
+Compare2Sequnces.py= After alignment, all sequences compare each others.
+
+
+***ALSO, you must have CLUSTALOMEGA program for alignment
+
+USAGE:
+
+After fill the Ref_Protein , Ref_Nuc and Mutation_List.txt
+
+chmod +x FindMut.sh
+./FindMut.sh
